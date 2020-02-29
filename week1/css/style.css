@@ -1,0 +1,32 @@
+.container
+{
+    text-align: center;
+    min-height: 300px;
+    min-width: 500px;
+    padding: 10px;
+    position: absolute;
+    left: 25%;
+    top: 15%;
+    background-color: #e1e1e1;
+
+}
+.container input[type="text"]
+{
+    margin-left: 22px;
+    margin-bottom: 10px;
+}
+#e_mail
+{
+    margin-right: 105px;
+}
+a
+{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+.content
+{
+    min-height: 200px;
+    position: absolute;
+    left: 10%;
+}
